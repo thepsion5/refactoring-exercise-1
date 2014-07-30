@@ -13,4 +13,4 @@ This is a single controller function that dramatically violates the SRP. Refacto
 
 [Submission Rules](http://www.reddit.com/r/laravel/comments/2byohm/refactoring_exercise_exercise_format_and_give_me/)
 
-[Reddit Post](http://www.reddit.com/r/laravel/comments/purplemonkeydishwasher)
+[Reddit Post](http://www.reddit.com/r/laravel/comments/2c6ufa/refactoring_exercise_1_is_up/)
